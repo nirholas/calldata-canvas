@@ -1,0 +1,11 @@
+{
+  "slug": "calldata-canvas",
+  "name": "Calldata Canvas",
+  "kind": "evm",
+  "description": "Encode compact generative art parameters into EVM calldata and compare Solana v1 bytes.",
+  "chain": "EVM + Solana",
+  "transactionVersion": 1,
+  "maxTransactionBytes": 4096,
+  "legacyTransactionBytes": 1232,
+  "status": "functional-prototype"
+}
