@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+title: "calldata-canvas"
+abstract: "Encode compact generative art parameters into EVM calldata and compare Solana v1 bytes."
+repository-code: "https://github.com/nirholas/calldata-canvas"
+url: "https://three.ws"
+authors:
+  - name: three.ws
+    website: "https://three.ws"
