@@ -8,7 +8,7 @@ Encode compact generative art parameters into EVM calldata and compare Solana v1
 
 - Source: https://github.com/nirholas/calldata-canvas
 - Primary language: HTML
-- License: Other (see the LICENSE file)
+- License: MIT (see the LICENSE file)
 
 ## Repository layout
 
